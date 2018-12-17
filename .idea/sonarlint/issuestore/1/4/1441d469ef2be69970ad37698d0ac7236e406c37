@@ -1,0 +1,6 @@
+
+[squid:S11979"8Move the array designator from the variable to the type.(“˜ïÝûÿÿÿÿ8³ÃÝÔú,
+jsquid:S001129"FDefine and throw a dedicated exception instead of using a generic one.(“˜ïÝûÿÿÿÿ8³ÃÝÔú,
+|squid:S2293+"YReplace the type specification in this constructor call with the diamond operator ("<>").(™ºöºýÿÿÿÿ8³ÃÝÔú,
+`squid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úýÿÿÿÿ8³ÃÝÔú,
+jsquid:S00112("FDefine and throw a dedicated exception instead of using a generic one.(»ÃÑ³øÿÿÿÿ8³ÃÝÔú,

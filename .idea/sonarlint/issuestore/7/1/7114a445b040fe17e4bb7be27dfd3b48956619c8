@@ -1,0 +1,8 @@
+
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(õ×èà
+}squid:S1488"cImmediately return this expression instead of assigning it to the temporary variable "newJsonJava".(·Îƒåýÿÿÿÿ
+usquid:S1488"`Immediately return this expression instead of assigning it to the temporary variable "jsonJAVA".(ÐÕœÕ
+Osquid:S1118":Add a private constructor to hide the implicit public one.(‹²Ž…
+csquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö¶
+
+dsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øÏ•ª
